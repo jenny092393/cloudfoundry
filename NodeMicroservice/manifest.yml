@@ -1,0 +1,6 @@
+---
+applications:
+  timeout: 180
+  buildpack: sdk-for-nodejs
+  command: npm start
+  random-route: true
